@@ -31,7 +31,7 @@ The multi-agent system includes three main workflow types:
 
 ---
 
-## 🧩 Folder Structure Overview
+## 🧠 Folder Structure Overview
 
 ```bash
 MULTI_AGENT/
@@ -87,5 +87,6 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
 ---
