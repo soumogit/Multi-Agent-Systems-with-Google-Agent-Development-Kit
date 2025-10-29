@@ -22,12 +22,20 @@ The system then:
 ## 🧩 Architecture
 
 The multi-agent system includes three main workflow types:
+<img width="1024" height="714" alt="image" src="https://github.com/user-attachments/assets/ba9dcdbc-b0bc-4259-ac8e-e14b85c14f78" />
 
 | Agent Type | Description |
 |-------------|-------------|
 | **SequentialAgent** | Executes steps one after another |
 | **LoopAgent** | Iterates between agents for improvement cycles |
 | **ParallelAgent** | Runs agents simultaneously and aggregates results |
+
+
+---
+
+## 🚀 Workflow
+
+<img width="1024" height="930" alt="image" src="https://github.com/user-attachments/assets/3413cb81-cc7e-4ac3-bd88-d21a4b08b616" />
 
 ---
 
@@ -90,3 +98,7 @@ pip install -r requirements.txt
 ```
 
 ---
+
+
+
+
