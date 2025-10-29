@@ -30,8 +30,10 @@ The multi-agent system includes three main workflow types:
 | **ParallelAgent** | Runs agents simultaneously and aggregates results |
 
 ---
-## 🧱 Project Structure
 
+## 🧩 Folder Structure Overview
+
+```bash
 MULTI_AGENT/
 │
 ├── adk_multiagent_systems/
@@ -56,6 +58,9 @@ MULTI_AGENT/
 │   ├── callback_logging.py
 │   ├── requirements.txt
 │   └── README-cloudshell.txt
+│
+└── README.md   ← Main project documentation
+```
 
 
 ## 🧰 Technologies Used
